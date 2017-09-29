@@ -1,1 +1,3 @@
-module.exports.Slack
+module.exports.Slack = {
+    
+}
